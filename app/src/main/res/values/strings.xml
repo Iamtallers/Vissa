@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Vissa</string>
+    <string name="Title">Vissa</string>
+    <string name="ActivityOneTextOne">and what country do you plan on visiting?</string>
+    <string name="ActivityOneTextTwo">Hi there, and welcome to Vissa. What country are you from?</string>
+    <string name="ActivityOneButtonOne">Next</string>
+    <string name="vissa">Vissa</string>
+    <string name="next">Next</string>
+    <string name="and_what_country_do_intend_to_visit">and what country do you intend to visit?</string>
+    <string name="hi_there_what_country_are_applying_from">Hi there, what country are applying from?</string>
+
+    <string-array name="country_list">
+        <item>Lesotho</item>
+        <item>Malawi</item>
+        <item>Mozambique</item>
+        <item>South Africa</item>
+        <item>Swaziland</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array>
+</resources>
